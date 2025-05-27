@@ -35,3 +35,45 @@ h1 {
 html {
     background-color: rgb(185, 186, 186);
 }
+
+
+/* 10:36 PM, Mon May 26: "CRUNNNNCHHHH FUCKKKK". */
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+a {
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+
+.black {
+    color: black
+}
+
+.fuck {
+    text-align: center;
+}
+
+.tiny {
+    font-size: xx-small;
+    color: black;
+}
+
+button {
+    background-color: transparent;
+    border-color: transparent;
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+    font-size: 16px;
+
+}
+
+.a2 {
+    font-size: larger;
+    color: white;
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+
+}
